@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 66b077e85a172eb409da770dd26c3ca0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 250
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384b357f1b9a8c46978b20989f04f14
+      internalID: 380194648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 306
+        width: 17
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb3e58abf3c934fa41c5e0651784e9
+      internalID: -1662091098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 339
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020e9e00fc59674d8fb51aebe2ceafe
+      internalID: 873647707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 332
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6133114466f6842b397d63e8845359
+      internalID: -287457517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625b83acb65b43448b49288bd371d5bc
+      internalID: 1751684376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 273
+        width: 104
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2abc389d8f2f4a97f5d27f4a617e3
+      internalID: 1195552061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 281
+        width: 82
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0ba869c810204b9bcd786cbfae225
+      internalID: 1498940425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 310
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb9c5ff6c4bc54081ce62d615a1fa0
+      internalID: 1825144742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 282
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0959f48dd556914eace2664b7a15885
+      internalID: 1346548025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 275
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530c3c28b45cd1d43afbe4b7bc84bed0
+      internalID: 609501974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 198
+        width: 229
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662426acacb0e3840a848ba6b07a7802
+      internalID: -1933465681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 261
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389955dde2d81746b4ebc2f86872b2d
+      internalID: 604721729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 266
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec70ba2f6c0e3d4da64f0a2aaa51245
+      internalID: -1973653704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 153
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723810946ad2b548a93689691cf360f
+      internalID: 128224380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 93
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c6e49cf8384d459dbf62c00b6d304
+      internalID: 10735974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 370
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa2680e594cd04186f2d74121ba20d
+      internalID: -1766387417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 142
+        width: 89
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7c598a219edb4eb06f3de8dea0264
+      internalID: -84262546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 139
+        width: 163
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f90044f397f324ba8d851c6a045171
+      internalID: 1889578111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e347511f271a0a749a6e8f2e271f28fa
+      internalID: -1606778373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgonline-com-ua-Transparent-background-BTIpoQrVs4_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 24
+        width: 39
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370c29721550db44946378687f223f1
+      internalID: -160976589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_12: -1973653704
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_19: -160976589
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_8: 1346548025
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_9: 609501974
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_3: -287457517
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_6: 1498940425
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_15: -1766387417
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_14: 10735974
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_10: -1933465681
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_1: -1662091098
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_16: -84262546
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_17: 1889578111
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_0: 380194648
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_18: -1606778373
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_2: 873647707
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_13: 128224380
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_7: 1825144742
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_5: 1195552061
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_4: 1751684376
+      imgonline-com-ua-Transparent-background-BTIpoQrVs4_11: 604721729
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
